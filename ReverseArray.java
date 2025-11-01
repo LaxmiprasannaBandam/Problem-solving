@@ -1,6 +1,4 @@
-// Problem: Reverse an array using user input
-// Date: 2025-10-31
-// Author: <Your Name>
+
 
 import java.util.Scanner;
 
